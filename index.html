@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Wako Weather</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <form id="location-form">
+      <label for="user-location-input">Location</label>
+      <input
+        type="text"
+        id="user-location-input"
+        name="user-location-input"
+        placeholder="Please enter a location"
+      />
+      <button type="submit">Search</button>
+    </form>
+    <div id="weather-container">
+      <h6>Location</h6>
+      <p class="location"></p>
+      <h2 class="temp"></h2>
+      <p class="sunset"></p>
+    </div>
+    <script src="index.js"></script>
+  </body>
+</html>
