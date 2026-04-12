@@ -27,9 +27,7 @@ Weather data comes from an online service ([Visual Crossing Timeline Weather API
 
 ## Preview
 
-![Screenshot of the weather app showing location, temperature in Celsius, and sunset time](./weather-api-console-output.png)
-
-*Replace this image with a crisp screenshot of the live UI if this file is an older asset—recruiters love a clear visual.*
+![Screenshot of the weather app showing location, temperature in Celsius, and sunset time](./Screenshot%202026-04-12%20at%2018.04.48.png)
 
 ---
 
