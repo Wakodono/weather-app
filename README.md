@@ -49,7 +49,7 @@ Weather data comes from an online service ([Visual Crossing Timeline Weather API
 
 ## Project status
 
-Personal portfolio / coursework piece. Feedback and suggestions are welcome via Issues.
+Personal portfolio / coursework piece. Feedback and suggestions are welcome.
 
 ---
 
